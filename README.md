@@ -8,6 +8,8 @@ This repo is the ArtBridge frontend client. It talks to a Spring Boot REST API.
 
 I am the product owner and a front-end developer in a team of five (TalTech course project, 2026). I built the design system and style guide (buttons, form fields, cards, loading states, dark mode) with Radix UI and CVA, and the login and registration forms, dashboard, artwork list and public portfolio. We worked with Jira, pull requests and code review.
 
+![ArtBridge style guide](./docs/style-guide.png)
+
 ---
 
 ## Getting Started
